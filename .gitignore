@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# place to dump any imported user data or generated output that should be persisted
+data/
+
+# temporary files for notebook edits made by the AI agent
+scratchpad/ 
